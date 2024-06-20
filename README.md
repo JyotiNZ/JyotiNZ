@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JyotiNZ
-- 👀 I’m interested in ...Data Science 
-- 🌱 I’m currently learning data Science...
+- 👋 Hi, I’m @Jyoti Vyas
+- 👀 I’m interested in ...Data Analytics and BI developer
+- 🌱 I’m currently learning Data Analytics...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..jyoti_vyas@outlook.com.
 
